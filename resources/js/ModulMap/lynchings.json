@@ -1,0 +1,262 @@
+{
+    "AZ": {
+        "fillKey": "White",
+        "LynchWhite": 31,
+        "LynchBlack": 0,
+		"Flag": "img/az.png"
+    },
+    "CO": {
+        "fillKey": "White",
+        "LynchWhite": 65,
+        "LynchBlack": 3,
+		"Flag": "img/co.png"
+    },
+    "DE": {
+        "fillKey": "Black",
+        "LynchWhite": 0,
+        "LynchBlack": 1,
+		"Flag": "img/de.png"
+    },
+    "FL": {
+        "fillKey": "Black",
+        "LynchWhite": 25,
+        "LynchBlack": 257,
+		"Flag": "img/FL.png"
+    },
+    "GA": {
+        "fillKey": "Black",
+        "LynchWhite": 39,
+        "LynchBlack": 492
+    },
+    "HI": {
+        "fillKey": "none",
+        "LynchWhite": 0,
+        "LynchBlack": 0
+    },
+    "ID": {
+        "fillKey": "White",
+        "LynchWhite": 20,
+        "LynchBlack": 0
+    },
+    "IL": {
+        "fillKey": "Black",
+        "LynchWhite": 15,
+        "LynchBlack": 19
+    },
+    "IN": {
+        "fillKey": "White",
+        "LynchWhite": 33,
+        "LynchBlack": 14
+    },
+    "IA": {
+        "fillKey": "White",
+        "LynchWhite": 17,
+        "LynchBlack": 2
+    },
+    "KS": {
+        "fillKey": "White",
+        "LynchWhite": 35,
+        "LynchBlack": 19
+    },
+    "KY": {
+        "fillKey": "Black",
+        "LynchWhite": 63,
+        "LynchBlack": 142
+    },
+    "LA": {
+        "fillKey": "Black",
+        "LynchWhite": 56,
+        "LynchBlack": 335
+    },
+    "MD": {
+        "fillKey": "White",
+        "LynchWhite": 2,
+        "LynchBlack": 27
+    },
+    "ME": {
+        "fillKey": "White",
+        "LynchWhite": 1,
+        "LynchBlack": 0
+    },
+    "MA": {
+        "fillKey": "none",
+        "LynchWhite": 0,
+        "LynchBlack": 0
+    },
+    "MN": {
+        "fillKey": "White",
+        "LynchWhite": 5,
+        "LynchBlack": 4
+    },
+    "MI": {
+        "fillKey": "White",
+        "LynchWhite": 7,
+        "LynchBlack": 1
+    },
+    "MS": {
+        "fillKey": "Black",
+        "LynchWhite": 42,
+        "LynchBlack": 539
+    },
+    "MO": {
+        "fillKey": "Black",
+        "LynchWhite": 53,
+        "LynchBlack": 69
+    },
+    "MT": {
+        "fillKey": "White",
+        "LynchWhite": 82,
+        "LynchBlack": 2
+    },
+    "NC": {
+        "fillKey": "Black",
+        "LynchWhite": 15,
+        "LynchBlack": 86
+    },
+    "NE": {
+        "fillKey": "White",
+        "LynchWhite": 52,
+        "LynchBlack": 5
+    },
+    "NV": {
+        "fillKey": "White",
+        "LynchWhite": 6,
+        "LynchBlack": 0
+    },
+    "NH": {
+        "fillKey": "none",
+        "LynchWhite": 0,
+        "LynchBlack": 0
+    },
+    "NJ": {
+        "fillKey": "none",
+        "LynchWhite": 1,
+        "LynchBlack": 1
+    },
+    "NY": {
+        "fillKey": "none",
+        "LynchWhite": 1,
+        "LynchBlack": 1
+    },
+    "ND": {
+        "fillKey": "White",
+        "LynchWhite": 13,
+        "LynchBlack": 3
+    },
+    "NM": {
+        "fillKey": "White",
+        "LynchWhite": 33,
+        "LynchBlack": 3,
+		"Flag": "img/nm.png"
+    },
+    "OH": {
+        "fillKey": "Black",
+        "LynchWhite": 10,
+        "LynchBlack": 16
+    },
+    "OK": {
+        "fillKey": "White",
+        "LynchWhite": 82,
+        "LynchBlack": 40
+    },
+    "OR": {
+        "fillKey": "White",
+        "LynchWhite": 20,
+        "LynchBlack": 1,
+		"Flag": "img/or.png"
+    },
+    "PA": {
+        "fillKey": "Black",
+        "LynchWhite": 2,
+        "LynchBlack": 6
+    },
+    "RI": {
+        "fillKey": "none",
+        "LynchWhite": 0,
+        "LynchBlack": 0
+    },
+    "SC": {
+        "fillKey": "Black",
+        "LynchWhite": 4,
+        "LynchBlack": 156
+    },
+    "SD": {
+        "fillKey": "White",
+        "LynchWhite": 27,
+        "LynchBlack": 0
+    },
+    "TN": {
+        "fillKey": "Black",
+        "LynchWhite": 47,
+        "LynchBlack": 204
+    },
+    "TX": {
+        "fillKey": "Black",
+        "LynchWhite": 141,
+        "LynchBlack": 352,
+		"Flag": "img/tx.png"
+    },
+    "UT": {
+        "fillKey": "White",
+        "LynchWhite": 6,
+        "LynchBlack": 2
+    },
+    "WI": {
+        "fillKey": "White",
+        "LynchWhite": 6,
+        "LynchBlack": 0
+    },
+    "VA": {
+        "fillKey": "Black",
+        "LynchWhite": 17,
+        "LynchBlack": 83
+    },
+    "VT": {
+        "fillKey": "White",
+        "LynchWhite": 1,
+        "LynchBlack": 0
+    },
+    "WA": {
+        "fillKey": "White",
+        "LynchWhite": 25,
+        "LynchBlack": 1,
+		"Flag": "img/wa.png"
+    },
+    "WV": {
+        "fillKey": "Black",
+        "LynchWhite": 20,
+        "LynchBlack": 28
+    },
+    "WY": {
+        "fillKey": "White",
+        "LynchWhite": 30,
+        "LynchBlack": 5
+    },
+    "CA": {
+        "fillKey": "White",
+        "LynchWhite": 41,
+        "LynchBlack": 2,
+		"Flag": "img/ca.png"
+    },
+    "CT": {
+        "fillKey": "none",
+        "LynchWhite": 0,
+        "LynchBlack": 0
+    },
+    "AK": {
+        "fillKey": "none",
+        "LynchWhite": 0,
+        "LynchBlack": 0,
+		"Flag": "img/ak.png"
+    },
+    "AR": {
+        "fillKey": "Black",
+        "LynchWhite": 58,
+        "LynchBlack": 226
+    },
+    "AL": {
+        "fillKey": "Black",
+        "LynchWhite": 48,
+        "LynchBlack": 299
+    }
+}
